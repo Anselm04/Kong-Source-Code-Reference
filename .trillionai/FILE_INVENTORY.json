@@ -1,0 +1,41 @@
+{
+  "upstream": "https://github.com/Kong/kong",
+  "upstream_commit": "66288d2723bd3825e6385a21be27e2ec2199def8",
+  "upstream_tree": "894534c1b30a163ec4d48eb2d7d1a339b5e1a8ff",
+  "upstream_tracked_entries": 2534,
+  "upstream_blob_files": 2534,
+  "expected_source_files": 2510,
+  "verified_source_files": 2510,
+  "excluded_paths": {
+    ".github/workflows/add-release-pongo.yml": "upstream workflow disabled",
+    ".github/workflows/ast-grep.yml": "upstream workflow disabled",
+    ".github/workflows/auto-assignee.yml": "upstream workflow disabled",
+    ".github/workflows/autodocs.yml": "upstream workflow disabled",
+    ".github/workflows/backport-fail-bot.yml": "upstream workflow disabled",
+    ".github/workflows/backport-v2.yml": "upstream workflow disabled",
+    ".github/workflows/build.yml": "upstream workflow disabled",
+    ".github/workflows/build_and_test.yml": "upstream workflow disabled",
+    ".github/workflows/buildifier.yml": "upstream workflow disabled",
+    ".github/workflows/changelog-requirement.yml": "upstream workflow disabled",
+    ".github/workflows/changelog-validation.yml": "upstream workflow disabled",
+    ".github/workflows/cherry-picks-v2.yml": "upstream workflow disabled",
+    ".github/workflows/community-stale.yml": "upstream workflow disabled",
+    ".github/workflows/copyright-check.yml": "upstream workflow disabled",
+    ".github/workflows/deck-integration.yml": "upstream workflow disabled",
+    ".github/workflows/label-check.yml": "upstream workflow disabled",
+    ".github/workflows/label-community-pr.yml": "upstream workflow disabled",
+    ".github/workflows/label-schema.yml": "upstream workflow disabled",
+    ".github/workflows/labeler-v2.yml": "upstream workflow disabled",
+    ".github/workflows/openresty-patches-companion.yml": "upstream workflow disabled",
+    ".github/workflows/release.yml": "upstream workflow disabled",
+    ".github/workflows/update-ngx-wasm-module.yml": "upstream workflow disabled",
+    ".github/workflows/update-test-runtime-statistics.yml": "upstream workflow disabled",
+    ".github/workflows/upgrade-tests.yml": "upstream workflow disabled"
+  },
+  "missing_paths": [],
+  "mismatched_paths": [],
+  "extra_paths": [
+    ".github/workflows/import-reference.yml"
+  ],
+  "scope": "Tracked Git blobs; no external LFS payloads, submodule contents or full history."
+}
